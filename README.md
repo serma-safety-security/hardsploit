@@ -130,8 +130,8 @@
     <br>
     <li>
       <p>Force system context reload</p>
-      <code>sudo udevadm control --reload 
-sudo udevadm trigger</code> 
+      <code> sudo udevadm control --reload </code> 
+      <code> sudo udevadm trigger </code> 
       <br>
     </li>
   </ol>
