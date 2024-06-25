@@ -147,8 +147,8 @@
   <ul>
     <li><Strong>Python</Strong> (Programming language used for project development.)</li>
     <li><Strong>Poetry</Strong> (Dependency management tool for Python projects.)</li>
-    <li><Strong>pyusb</Strong> (Library for USB access on Python, allowing easy communication with USB devices.)</li>
-    <li><Strong>colorama</Strong> (Library for colored terminal text in Python, enhancing readability of console output.)</li>
+    <li><Strong>Pyusb</Strong> (Library for USB access on Python, allowing easy communication with USB devices.)</li>
+    <li><Strong>Colorama</Strong> (Library for colored terminal text in Python, enhancing readability of console output.)</li>
   </ul>
 </div>
 <br><br>
