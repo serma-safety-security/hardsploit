@@ -147,7 +147,7 @@
   <h2>Graphical User Interface</h2>
   <h3>A more user friendly way to use Hardsploit!</h3>
   <img src="https://github.com/serma-safety-security/hardsploit/assets/139353343/89dca125-45a1-445f-99bf-c1419d47576b"/>
-  <p>You can find our GUI <a href="">here</a>!</p>
+  <p>You can find our GUI <a href="https://github.com/serma-safety-security/hardsploit-gui">here</a>!</p>
 
 </div>
 <br>
