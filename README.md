@@ -141,7 +141,16 @@
     <p>If this does not work then reboot.</p>
 </div>
 <br>
+<!-- Graphical User Interface-->
+<a name="gui"></a>
+<div>
+  <h2>Graphical User Interface</h2>
+  <h3>A more user friendly way to use Hardsploit!</h3>
+  <img src="https://github.com/serma-safety-security/hardsploit/assets/139353343/89dca125-45a1-445f-99bf-c1419d47576b"/>
+  <p>You can find our GUI <a href="">here</a>!</p>
 
+</div>
+<br>
 <!-- TECHNOLOGIES USED-->
 <a name="tech-used"></a>
 <div>
