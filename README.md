@@ -5,7 +5,7 @@
 <br>
 <div align="center">
   <a href="https://hardsploit.io">
-    <img src="./images/Hardsploit_logo_v8.png" alt="Hardsploit" width=550 height=77>
+    <img src="https://github.com/serma-safety-security/hardsploit-gui/assets/139353343/fe2b42d6-d817-4e27-99eb-7aa0d5dfe22f" alt="Hardsploit" width=550 height=77>
   </a>
 
   <h3 align="center">
@@ -16,7 +16,7 @@
   </div>
   <br>
   <div align="center">
-    <img src="./images/hs_board.png" alt="Board hardsploit" height="250">
+    <img src="https://github.com/serma-safety-security/hardsploit-gui/assets/139353343/27e4db6d-98cf-4aae-9527-f133fa3bbfe6" alt="Board hardsploit" height="250">
   </div>
   <br>
 
