@@ -35,6 +35,9 @@
           <li><a href="#add-perm">Add permission for non root user to use USB</a></li>
         </ul>
       </li>
+      <li>
+        <a href="#gui">Graphical User Interface</a>
+      </li>
       <li><a href="#tech-used">Technologies used</a></li>
       <li><a href="#license">License</a></li>
     </ol>
