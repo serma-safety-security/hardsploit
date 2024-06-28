@@ -5,7 +5,7 @@ import sys
 import string
 
 from hardsploit.core import HardsploitAPI, HardsploitConstant, HardsploitError, HardsploitUtils
-from hardsploit.modules import HardsploitSWD
+from hardsploit.modules.swd.swd import HardsploitSWD
 
 hardsploit_package = pathlib.Path(pathlib.Path(inspect.getfile(lambda: None)).parents[1])
 sys.path.append(hardsploit_package.resolve().as_posix())
