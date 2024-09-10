@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hardsploit"
-version = "0.3.4"
+version = "2.0.0"
 description = "API for Hardsploit HW access"
 authors = ["PERIES Mickaël <m.peries@serma.com>", "DUMAN Mazlum, <m.duman@serma.com>"]
 license = "LGPL-3.0-only"
