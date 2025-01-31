@@ -73,7 +73,6 @@ class HardsploitUSBCommunication:
             self.send_packet(packet_send)
             received_data = self.dev.read(endpoint=HardsploitConstant.USB.IN_ENDPOINT,
                                           size_or_buffer=HardsploitConstant.USB.USB_TRAME_SIZE, timeout=timeout)
-            print("data received: " + str(received_data))
             # HardsploitAPI.HardsploitAPI.consoleSpeed(
             #   "RECEIVE {}Bytes/s  {}Bytes in  {} s".format(round(received_data/EndTime, 2),
             #                                                 received_data, round(EndTime, 4)))
@@ -109,7 +108,6 @@ class HardsploitUSBCommunication:
                 if len(packet_send) % 64 == 0:
                     packet_send.append(0)
 
-                # print(f"Send: {packet_send}")
                 start_time = time.time()
                 number_of_data_send = self.dev.write(endpoint=HardsploitConstant.USB.OUT_ENDPOINT,
                                                      data=bytearray(packet_send), timeout=3000)
